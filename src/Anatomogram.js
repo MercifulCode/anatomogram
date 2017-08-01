@@ -53,6 +53,8 @@ Anatomogram.propTypes = {
 }
 
 Anatomogram.defaultProps = {
+  species: `mus_musculus`,
+
   showIds: [],
   highlightIds: [],
   selectIds: [],
